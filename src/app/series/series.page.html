@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>
+      Filmes de Séries
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-app>
+    <ion-content fullscreen>
+      <ion-card *ngFor="let series of filmes" >
+        <img [src]="ficcao.imagem"/>
+        <ion-card-header>
+          <ion-card-subtitle>{{series.categoria}}</ion-card-subtitle>
+          <ion-card-title>{{series.nome}}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          {{series.descricao}}
+        </ion-card-content>
+      </ion-card>
+    </ion-content>
+  </ion-app>
+</ion-content>

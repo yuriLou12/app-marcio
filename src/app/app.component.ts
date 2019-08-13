@@ -17,10 +17,50 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
+      title: 'Acão',
+      url: '/acao',
       icon: 'list'
-    }
+    },
+    {
+      title: 'Aventura',
+      url: '/aventura',
+      icon: 'list'
+    },
+    {
+      title: 'Comédia',
+      url: '/comedia',
+      icon: 'list'
+    },
+    {
+      title: 'Documentário',
+      url: '/documentario',
+      icon: 'list'
+    },
+    {
+      title: 'Drama',
+      url: '/drama',
+      icon: 'list'
+    },
+    {
+      title: 'Ficção científica',
+      url: '/ficcao',
+      icon: 'list'
+    },
+    {
+      title: 'Séries',
+      url: '/serie',
+      icon: 'list'
+    },
+    {
+      title: 'Suspense',
+      url: '/suspense',
+      icon: 'list'
+    },
+    {
+      title: 'Terror',
+      url: '/terror',
+      icon: 'list'
+    },
   ];
 
   constructor(

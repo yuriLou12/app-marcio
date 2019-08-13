@@ -1,0 +1,27 @@
+{
+    "ficcao": [
+        {
+            "imagem": "assets/aventura/naufrago.jpg",
+            "categoria": "Aventura",
+            "nome": "Naufrago",
+            "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
+            
+        },
+        {
+            "imagem": "assets/aventura/rei.jpg",
+            "categoria": "Aventura",
+            "nome": "Rei Leão",
+            "descricao": ""
+            
+        },
+        {
+            "imagem": "assets/aventura/sherlock.jpg",
+            "categoria": "Aventura",
+            "nome": "Sherlock Holmes",
+            "descricao": ""
+            
+        }
+        
+
+	]
+}

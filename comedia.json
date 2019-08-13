@@ -1,0 +1,27 @@
+{
+    "comedia": [
+        {
+            "imagem": "assets/comedia/anjos.jpg",
+            "categoria": "Comédia",
+            "nome": "Anjos Da Lei",
+            "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
+            
+        },
+        {
+            "imagem": "assets/comedia/deadpool.jpg",
+            "categoria": "Comédia",
+            "nome": "DeadPool",
+            "descricao": ""
+            
+        },
+        {
+            "imagem": "assets/comedia/forrestgump.jpg",
+            "categoria": "Comédia",
+            "nome": "Forrest Gump",
+            "descricao": ""
+            
+        }
+        
+
+	]
+}

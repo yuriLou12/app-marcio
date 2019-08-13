@@ -1,0 +1,27 @@
+{
+    "acao": [
+        {
+            "imagem": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2019/04/legiao_6hLYi7Q9gc_ob3SKaVxAyBG8vuq52UnfHeJmCDtNdE.png.jpeg",
+            "categoria": "Ação",
+            "nome": "Exterminador do Futuro",
+            "descricao": "Filme de Ação Filme de AçãoFilme de AçãoFilme de AçãoFilme de AçãoFilme de Ação"
+            
+        },
+        {
+            "imagem": "http://br.web.img3.acsta.net/r_640_360/newsv7/19/05/10/20/17/2397134.jpg",
+            "categoria": "Ação",
+            "nome": "John Wick",
+            "descricao": "John WickJohn WickJohn WickJohn WickJohn WickJohn Wick"
+            
+        },
+        {
+            "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/Captain_Marvel_%282018%29.jpg/250px-Captain_Marvel_%282018%29.jpg",
+            "categoria": "Ação",
+            "nome": "Capitã Marvel",
+            "descricao": "Capitã MarvelCapitã MarvelCapitã MarvelCapitã MarvelCapitã MarvelCapitã MarvelCapitã Marvel"
+            
+        }
+        
+
+	]
+}
