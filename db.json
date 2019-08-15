@@ -1,27 +1,74 @@
 {
     "acao": [
         {
-            "imagem": "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2019/04/legiao_6hLYi7Q9gc_ob3SKaVxAyBG8vuq52UnfHeJmCDtNdE.png.jpeg",
+            "imagem": "assets/acao/batman.jpg",
             "categoria": "Ação",
-            "nome": "Exterminador do Futuro",
-            "descricao": "Filme de Ação Filme de AçãoFilme de AçãoFilme de AçãoFilme de AçãoFilme de Ação"
+            "nome": "Batman: O Cavaleiro das Trevas",
+            "descricao": "Com a ajuda de Jim Gordon e Harvey Dent, Batman tem mantido a ordem na cidade de Gotham. Mas um jovem e anárquico criminoso conhecido como Coringa ganha força e decide instaurar um verdadeiro caos na cidade. O justiceiro será testado psicologicamente e fisicamente como nunca fora antes em um confronto bastante pessoal. Cabe a Batman encontrar uma maneira de deter o sádico vilão antes que mais vidas sejam perdidas."
             
         },
         {
-            "imagem": "http://br.web.img3.acsta.net/r_640_360/newsv7/19/05/10/20/17/2397134.jpg",
+            "imagem": "assets/acao/Constantine.jpg",
             "categoria": "Ação",
-            "nome": "John Wick",
-            "descricao": "John WickJohn WickJohn WickJohn WickJohn WickJohn Wick"
+            "nome": "Constantine            ",
+            "descricao": "Contos sobrenaturais baseados nas histórias em quadrinhos Hellblazer. O solitário Constantine tenta garantir seu lugar no paraíso enviando demônios de volta ao inferno, mas seu destino está ligado ao de Angela, uma policial que investiga o suposto suicídio de sua irmã gêmea."
             
         },
         {
-            "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/Captain_Marvel_%282018%29.jpg/250px-Captain_Marvel_%282018%29.jpg",
+            "imagem": "assets/acao/Vingadores.jpg",
             "categoria": "Ação",
-            "nome": "Capitã Marvel",
-            "descricao": "Capitã MarvelCapitã MarvelCapitã MarvelCapitã MarvelCapitã MarvelCapitã MarvelCapitã Marvel"
+            "nome": "Vingadores: Ultimato",
+            "descricao": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.            "
             
         }
         
 
-	]
+    ],
+
+    "top": [
+        {
+            "imagem": "assets/top/avatar.jpg",
+            "categoria": "Ficção científica",
+            "nome": "Avatar",
+            "descricao": "Jake Sully (Sam Worthington) ficou paraplégico após um combate na Terra. Ele é selecionado para participar do programa Avatar em substituição ao seu irmão gêmeo, falecido. Jake viaja a Pandora, uma lua extraterrestre, onde encontra diversas e estranhas formas de vida. "
+            
+        },
+        {
+            "imagem": "assets/top/titanic.jpg",
+            "categoria": "Drama",
+            "nome": "Titanic            ",
+            "descricao": "Jack Dawson (Leonardo DiCaprio) é um jovem aventureiro que, na mesa de jogo, ganha uma passagem para a primeira viagem do transatlântico Titanic. Trata-se de um luxuoso e imponente navio, anunciado na época como inafundável, que parte para os Estados Unidos.  "
+            
+        },
+        {
+            "imagem": "assets/top/star.jpg",
+            "categoria": "Ação",
+            "nome": "Star Wars - O Despertar Da Força",
+            "descricao": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.            "
+            
+        },
+        {
+            "imagem": "assets/top/infinita.jpg",
+            "categoria": "Ação",
+            "nome": "Vingadores: Guerra Infinita",
+            "descricao": "Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.          "
+            
+        },{
+            "imagem": "assets/top/park.jpg",
+            "categoria": "Aventura",
+            "nome": "Jurassic World - O Mundo Dos Dinossauros",
+            "descricao": "O Jurassic Park, localizado na ilha Nublar, enfim está aberto ao público. Com isso, as pessoas podem conferir shows acrobáticos com dinossauros e até mesmo fazer passeios bem perto deles, já que agora estão domesticados.   "
+            
+        },
+        {
+            "imagem": "assets/top/furiosos.jpg",
+            "categoria": "Ação",
+            "nome": "Veloses & Furiosos 7",
+            "descricao": "Após os acontecimentos em Londres, Dom (Vin Diesel), Brian (Paul Walker), Letty (Michelle Rodriguez) e o resto da equipe tiveram a chance de voltar para os Estados Unidos e recomeçarem suas vidas.            "
+            
+        }
+        
+
+    ]
+    
 }

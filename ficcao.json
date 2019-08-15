@@ -1,24 +1,24 @@
 {
     "ficcao": [
         {
-            "imagem": "assets/aventura/naufrago.jpg",
-            "categoria": "Aventura",
-            "nome": "Naufrago",
-            "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
+            "imagem": "assets/ficao/devolta.jpg",
+            "categoria": "Ficçao Científica",
+            "nome": "De Volta Para o Futuro",
+            "descricao": "Marty McFly, um adolescente de uma pequena cidade californiana, é transportado para a década de 1950 quando a experiência do excêntrico cientista Doc Brown dá errado. Viajando no tempo em um carro modificado, Marty conhece versões jovens de seus pais e precisa fazer com que eles se apaixonem, ou então ele deixará de existir. Para complicar, Marty precisa voltar para casa a tempo de salvar o cientista.            "
             
         },
         {
-            "imagem": "assets/aventura/rei.jpg",
-            "categoria": "Aventura",
-            "nome": "Rei Leão",
-            "descricao": ""
+            "imagem": "assets/ficao/interestelar.jpg",
+            "categoria": "Ficçao Científica",
+            "nome": "Interestelar",
+            "descricao": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.            "
             
         },
         {
-            "imagem": "assets/aventura/sherlock.jpg",
-            "categoria": "Aventura",
-            "nome": "Sherlock Holmes",
-            "descricao": ""
+            "imagem": "assets/ficao/matrix.jpg",
+            "categoria": "Ficçao Científica",
+            "nome": " Matrix",
+            "descricao": "Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.            "
             
         }
         

@@ -11,10 +11,7 @@ const routes: Routes = [
     path: 'home',
     loadChildren: () => import('./home/home.module').then(m => m.HomePageModule)
   },
-  {
-    path: 'acao',
-    loadChildren: () => import('./acao/acao.module').then(m => m.AcaoPageModule)
-  },
+
   { path: 'drama', loadChildren: './drama/drama.module#DramaPageModule' },
   { path: 'acao', loadChildren: './acao/acao.module#AcaoPageModule' },
   { path: 'aventura', loadChildren: './aventura/aventura.module#AventuraPageModule' },
@@ -23,7 +20,7 @@ const routes: Routes = [
   { path: 'ficcao', loadChildren: './ficcao/ficcao.module#FiccaoPageModule' },
   { path: 'series', loadChildren: './series/series.module#SeriesPageModule' },
   { path: 'suspense', loadChildren: './suspense/suspense.module#SuspensePageModule' },
-  { path: 'terror', loadChildren: './terror/terror.module#TerrorPageModule' }
+  { path: 'terror', loadChildren: './terror/terror.module#TerrorPageModule' },
 ];
 
 @NgModule({

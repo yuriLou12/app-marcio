@@ -48,7 +48,7 @@ export class AppComponent {
     },
     {
       title: 'Séries',
-      url: '/serie',
+      url: '/series',
       icon: 'list'
     },
     {

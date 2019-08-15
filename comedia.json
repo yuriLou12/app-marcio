@@ -4,21 +4,21 @@
             "imagem": "assets/comedia/anjos.jpg",
             "categoria": "Comédia",
             "nome": "Anjos Da Lei",
-            "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
+            "descricao": "Os policiais Schmidt e Jenko entram para a unidade secreta Jump Street e tiram proveito de suas aparências jovens disfarçando-se de estudantes colegiais. Eles trocam suas armas e crachás por mochilas e partem para desmantelar uma perigosa rede de narcóticos. Mas logo percebem que o colégio não é mais como costumava ser há alguns anos -- e tem mais, eles precisam enfrentar novamente o terror adolescente e a ansiedade que achavam ter deixado para trás.            "
             
         },
         {
             "imagem": "assets/comedia/deadpool.jpg",
             "categoria": "Comédia",
-            "nome": "DeadPool",
-            "descricao": ""
+            "nome": "Deadpool",
+            "descricao": "Wade Wilson é um ex-agente especial que passou a trabalhar como mercenário. Seu mundo é destruído quando um cientista maligno o tortura e o desfigura completamente. O experimento brutal transforma Wade em Deadpool, que ganha poderes especiais de cura e uma força aprimorada. Com a ajuda de aliados poderosos e um senso de humor mais desbocado e cínico do que nunca, o irreverente anti-herói usa habilidades e métodos violentos para se vingar do homem que quase acabou com a sua vida.            "
             
         },
         {
             "imagem": "assets/comedia/forrestgump.jpg",
             "categoria": "Comédia",
-            "nome": "Forrest Gump",
-            "descricao": ""
+            "nome": "Forrest Gump: O Contador de Histórias            ",
+            "descricao": "Mesmo com o raciocínio lento, Forrest Gump nunca se sentiu desfavorecido. Graças ao apoio da mãe, ele teve uma vida normal. Seja no campo de futebol como um astro do esporte, lutando no Vietnã ou como capitão de um barco de camarão, Forrest inspira a todos com seu otimismo infantil. Mas a pessoa com quem Forrest mais se preocupa pode ser a mais difícil de salvar: seu amor de infância, a doce, mas perturbada Jenny.            "
             
         }
         

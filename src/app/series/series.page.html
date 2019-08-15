@@ -13,7 +13,7 @@
   <ion-app>
     <ion-content fullscreen>
       <ion-card *ngFor="let series of filmes" >
-        <img [src]="ficcao.imagem"/>
+        <img [src]="series.imagem"/>
         <ion-card-header>
           <ion-card-subtitle>{{series.categoria}}</ion-card-subtitle>
           <ion-card-title>{{series.nome}}</ion-card-title>
@@ -21,6 +21,14 @@
         <ion-card-content>
           {{series.descricao}}
         </ion-card-content>
+        <ion-item>
+            <ion-label>Ja assistiu ?</ion-label>
+          <ion-checkbox checked="false"></ion-checkbox>
+        </ion-item>
+          <ion-item>
+              <ion-label>Classificação</ion-label>
+              <ion-badge color="success" slot="end">Livre</ion-badge>
+            </ion-item>
       </ion-card>
     </ion-content>
   </ion-app>

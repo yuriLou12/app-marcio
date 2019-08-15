@@ -1,24 +1,24 @@
 {
     "suspense": [
         {
-            "imagem": "assets/aventura/naufrago.jpg",
-            "categoria": "Aventura",
-            "nome": "Naufrago",
-            "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
+            "imagem": "assets/suspense/iluminado.jpg",
+            "categoria": "Suspense",
+            "nome": "The Shining            ",
+            "descricao": "Jack Torrance se torna caseiro de inverno do isolado Hotel Overlook, nas montanhas do Colorado, na esperança de curar seu bloqueio de escritor. Ele se instala com a esposa Wendy e o filho Danny, que é atormentando por premonições. Jack não consegue escrever e as visões de Danny se tornam mais perturbadoras. O escritor descobre os segredos sombrios do hotel e começa a se transformar em um maníaco homicida, aterrorizando sua família.            "
             
         },
         {
-            "imagem": "assets/aventura/rei.jpg",
-            "categoria": "Aventura",
-            "nome": "Rei Leão",
-            "descricao": ""
+            "imagem": "assets/suspense/pesadelo.jpg",
+            "categoria": "Suspense",
+            "nome": "A Hora do Pesadelo            ",
+            "descricao": "Um grupo de adolescentes tem pesadelos horríveis, em que são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger, um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora, Krueger pode ter retornado para se vingar daqueles que o mataram, através do sono.            "
             
         },
         {
-            "imagem": "assets/aventura/sherlock.jpg",
-            "categoria": "Aventura",
-            "nome": "Sherlock Holmes",
-            "descricao": ""
+            "imagem": "assets/suspense/Pisicose.jpg",
+            "categoria": "Suspense",
+            "nome": "Psicose",
+            "descricao": "Após roubar 40 mil dólares para se casar com o namorado, uma mulher foge durante uma tempestade e decide passar a noite em um hotel que encontra pelo caminho. Ela conhece o educado e nervoso proprietário do estabelecimento, Norman Bates, um jovem com um interesse em taxidermia e com uma relação conturbada com sua mãe. O que parece ser uma simples estadia no local se torna uma verdadeira noite de terror.            "
             
         }
         

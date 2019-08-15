@@ -1,24 +1,24 @@
 {
     "series": [
         {
-            "imagem": "assets/aventura/naufrago.jpg",
-            "categoria": "Aventura",
-            "nome": "Naufrago",
-            "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
+            "imagem": "assets/series/bad.jpg",
+            "categoria": "Séries",
+            "nome": "Breaking Bad            ",
+            "descricao": "O professor de química Walter White não acredita que sua vida possa piorar ainda mais. Quando descobre que tem câncer terminal, Walter decide arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de metanfetamina.            "
             
         },
         {
-            "imagem": "assets/aventura/rei.jpg",
-            "categoria": "Aventura",
-            "nome": "Rei Leão",
-            "descricao": ""
+            "imagem": "assets/series/house.jpg",
+            "categoria": "Séries",
+            "nome": "House",
+            "descricao": "Em um hospital de Nova Jersey, o brilhante médico Dr. Gregory House lida com estranhos casos de saúde, enquanto complica a vida da administradora do hospital e do seu melhor amigo, que é um oncologista.            "
             
         },
         {
-            "imagem": "assets/aventura/sherlock.jpg",
-            "categoria": "Aventura",
-            "nome": "Sherlock Holmes",
-            "descricao": ""
+            "imagem": "assets/series/lost.jpg",
+            "categoria": "Séries",
+            "nome": "Lost",
+            "descricao": "Os sobreviventes de um voo que estava milhas fora do curso caem em uma ilha que abriga um sistema de segurança monstruoso, uma série de abrigos subterrâneos e um grupo de sobrevivencialistas violentos escondidos nas sombras.            "
             
         }
         

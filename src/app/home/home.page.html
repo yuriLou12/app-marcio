@@ -4,41 +4,62 @@
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
     <ion-title>
-      Home
+      AdoroFilmes
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
-    <ion-card class="welcome-card">
-      <img src="/assets/shapes.svg" alt="" />
-      <ion-card-header>
-        <ion-card-subtitle>Get Started</ion-card-subtitle>
-        <ion-card-title>Welcome to Ionic</ion-card-title>
-      </ion-card-header>
-      <ion-card-content>
-        <p>Now that your app has been created, you'll want to start building out features and components. Check out some of the resources below for next steps.</p>
-      </ion-card-content>
-    </ion-card>
-    <ion-list lines="none">
-      <ion-list-header>
-        <ion-label>Resources</ion-label>
-      </ion-list-header>
-      <ion-item href="https://ionicframework.com/docs/">
-        <ion-icon slot="start" color="medium" name="book"></ion-icon>
-        <ion-label>Ionic Documentation</ion-label>
-      </ion-item>
-      <ion-item href="https://ionicframework.com/docs/building/scaffolding">
-        <ion-icon slot="start" color="medium" name="build"></ion-icon>
-        <ion-label>Scaffold Out Your App</ion-label>
-      </ion-item>
-      <ion-item href="https://ionicframework.com/docs/layout/structure">
-        <ion-icon slot="start" color="medium" name="grid"></ion-icon>
-        <ion-label>Change Your App Layout</ion-label>
-      </ion-item>
-      <ion-item href="https://ionicframework.com/docs/theming/basics">
-        <ion-icon slot="start" color="medium" name="color-fill"></ion-icon>
-        <ion-label>Theme Your App</ion-label>
-      </ion-item>
-    </ion-list>
+  <ion-app>
+    <ion-content fullscreen>
+      <img src="assets/cinema.jpg" alt="cinema" />
+      <ion-card>
+        <ion-card-content>
+          <ion-card-subtitle> Seja Bem-vindo ao Aplicativo. Este app lista um conjunto de filmes separados através dos
+            generos que eles tem.</ion-card-subtitle>
+        </ion-card-content>
+      </ion-card>
+      <ion-card-title class="centro">
+        <ion-icon name="star"></ion-icon>Top Filmes<ion-icon name="star"></ion-icon>
+      </ion-card-title>
+      <ion-card *ngFor="let top of filmes">
+        <img [src]="top.imagem" />
+        <ion-card-header>
+          <ion-card-subtitle>{{top.categoria}}</ion-card-subtitle>
+          <ion-card-title>{{top.nome}}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          {{top.descricao}}
+        </ion-card-content>
+        <ion-item>
+          <ion-label>Ja assistiu ?</ion-label>
+          <ion-checkbox checked="false"></ion-checkbox>
+        </ion-item>
+        <ion-item>
+          <ion-label>Classificação</ion-label>
+          <ion-badge color="success" slot="end">Livre</ion-badge>
+        </ion-item>
+      </ion-card>
+    </ion-content>
+  </ion-app>
+
+  <ion-fab horizontal="start" vertical="bottom" slot="fixed">
+    <ion-fab-button color="dark">
+      <ion-icon name="arrow-dropup"></ion-icon>
+    </ion-fab-button>
+    <ion-fab-list side="top">
+      <ion-fab-button color="light">
+        <ion-icon name="logo-facebook"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button color="light">
+        <ion-icon name="logo-twitter"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button color="light">
+        <ion-icon name="logo-vimeo"></ion-icon>
+      </ion-fab-button>
+      <ion-fab-button color="light">
+        <ion-icon name="logo-google"></ion-icon>
+      </ion-fab-button>
+    </ion-fab-list>
+  </ion-fab>
 </ion-content>

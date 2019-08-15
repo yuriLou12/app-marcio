@@ -1,24 +1,24 @@
 {
     "documentario": [
         {
-            "imagem": "assets/aventura/naufrago.jpg",
-            "categoria": "Aventura",
-            "nome": "Naufrago",
-            "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
+            "imagem": "assets/documentario/bonifacio.jpg",
+            "categoria": "Documentário",
+            "nome": "Bonifácio: O Fundador do Brasil            ",
+            "descricao": "Conheça a vida de José Bonifácio de Andrada e Silva, patriarca da independência brasileira. O documentário utiliza a Teoria das Camadas da Personalidade, do filósofo Olavo de Carvalho, como eixo investigativo.            "
             
         },
         {
-            "imagem": "assets/aventura/rei.jpg",
-            "categoria": "Aventura",
-            "nome": "Rei Leão",
-            "descricao": ""
+            "imagem": "assets/documentario/jackass.jpg",
+            "categoria": "Documentário",
+            "nome": "Jackass - Cara-de-pau: O Filme",
+            "descricao": "Johnny Knoxville e seus companheiros corajosos e estúpidos fazem estripulias absurdas em nome da diversão. Eles invadem o Japão, onde se disfarçam de pandas, atacam um campo de golfe e enfrentam jacarés.            "
             
         },
         {
-            "imagem": "assets/aventura/sherlock.jpg",
-            "categoria": "Aventura",
-            "nome": "Sherlock Holmes",
-            "descricao": ""
+            "imagem": "assets/documentario/sizeme.jpg",
+            "categoria": "Documentário",
+            "nome": "Super Size Me: A Dieta do Palhaço            ",
+            "descricao": "Experimento em que, por um mês, diretor se alimenta apenas de comida produzida na rede fast food McDonald's. Ela mostra o diário em vídeo dos terríveis resultados que vivencia, enquanto avalia a empresa e seus métodos de persuasão.            "
             
         }
         

@@ -1,24 +1,24 @@
 {
     "drama": [
         {
-            "imagem": "assets/aventura/naufrago.jpg",
-            "categoria": "Aventura",
-            "nome": "Naufrago",
+            "imagem": "assets/drama/imitacao.jpg",
+            "categoria": "Drama",
+            "nome": "O Jogo da Imitação            ",
             "descricao": "O dedicado funcionário executivo da FedEx, Chuck Noland, viaja a trabalho para a Malásia quando o avião da empresa cai sobre o Oceano Pacífico durante uma tempestade. Como o único sobrevivente do acidente, Chuck vai parar em uma ilha deserta. Quando suas tentativas de socorro se esgotam, Chuck aprende a sobreviver na ilha."
             
         },
         {
-            "imagem": "assets/aventura/rei.jpg",
-            "categoria": "Aventura",
-            "nome": "Rei Leão",
-            "descricao": ""
+            "imagem": "assets/drama/resgate.jpg",
+            "categoria": "Drama",
+            "nome": "O Resgate do Soldado Ryan  ",
+            "descricao": "Ao desembarcar na Normandia, no dia 6 de junho de 1944, o Capitão Miller recebe a missão de comandar um grupo do Segundo Batalhão para o resgate do soldado James Ryan, o caçula de quatro irmãos, dentre os quais três morreram em combate. Por ordens do chefe George C. Marshall, eles precisam procurar o soldado e garantir o seu retorno, com vida, para casa.            "
             
         },
         {
-            "imagem": "assets/aventura/sherlock.jpg",
-            "categoria": "Aventura",
-            "nome": "Sherlock Holmes",
-            "descricao": ""
+            "imagem": "assets/drama/sempre.jpg",
+            "categoria": "Drama",
+            "nome": "Sempre ao seu Lado",
+            "descricao": "Professor universitário encontra na estação de trem um filhote de cachorro da raça Akita, conhecida por sua lealdade. O cão passa a acompanhá-lo até a estação de trem e esperar sua volta. Até que um acontecimento inesperado altera sua vida.            "
             
         }
         
